@@ -1,0 +1,7 @@
+opam-version: "2.0"
+bin: "bin/dune-release" {"dune-release"}
+doc: [
+  "doc/dune-release/README.md" {"README.md"}
+  "doc/dune-release/LICENSE" {"LICENSE"}
+  "doc/dune-release/CHANGES.md" {"CHANGES.md"}
+]

@@ -1,0 +1,13 @@
+opam-version: "2.0"
+depends: [
+  "ocaml-system" {= "4.13.1"} | "ocaml-variants" {= "4.13.1"} |
+  "ocaml-base-compiler" {= "4.13.1"}
+]
+available: arch = "x86_64" & os-distribution = "ubuntu"
+extra-files: [
+  "ocaml-lsp-server.install" "md5=509f23b0ed644969a00ec9d20285e8ac"
+]
+url {
+  src:
+    "file:///home/hong/.opam/plugins/ocaml-platform/cache/archives/ocaml-lsp-server.1.10.5-ocaml4.13.1+platform.tar.gz"
+}

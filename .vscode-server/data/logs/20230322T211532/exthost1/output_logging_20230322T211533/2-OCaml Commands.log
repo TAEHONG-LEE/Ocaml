@@ -1,0 +1,30 @@
+$ /usr/bin/opam --version
+$ /usr/bin/opam --version
+$ /usr/bin/opam --version
+2.1.4
+2.1.4
+
+$ /usr/bin/opam var --global root
+
+$ /usr/bin/opam var --global root
+2.1.4
+
+$ /usr/bin/opam var --global root
+/home/hong/.opam
+
+/home/hong/.opam
+/home/hong/.opam
+
+$ /usr/bin/opam switch show --root /home/hong/.opam
+
+default
+
+$ /usr/bin/opam switch show --root /home/hong/.opam
+default
+
+$ /usr/bin/opam exec --switch=default --set-switch --root /home/hong/.opam -- ocamlc --version
+4.13.1
+
+$ /usr/bin/opam exec --switch=default --set-switch --root /home/hong/.opam -- ocamllsp --version
+1.10.5
+

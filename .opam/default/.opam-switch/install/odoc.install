@@ -1,0 +1,33 @@
+opam-version: "2.0"
+bin: "bin/odoc" {"odoc"}
+share:
+  "share/odoc/odoc-theme/default/odoc.css" {"odoc-theme/default/odoc.css"}
+doc: [
+  "doc/odoc/odoc-pages/parent_child_spec.mld"
+    {"odoc-pages/parent_child_spec.mld"}
+  "doc/odoc/odoc-pages/odoc_xref_test.mld" {"odoc-pages/odoc_xref_test.mld"}
+  "doc/odoc/odoc-pages/odoc_xref2.mld" {"odoc-pages/odoc_xref2.mld"}
+  "doc/odoc/odoc-pages/odoc_odoc.mld" {"odoc-pages/odoc_odoc.mld"}
+  "doc/odoc/odoc-pages/odoc_model_desc.mld"
+    {"odoc-pages/odoc_model_desc.mld"}
+  "doc/odoc/odoc-pages/odoc_model.mld" {"odoc-pages/odoc_model.mld"}
+  "doc/odoc/odoc-pages/odoc_manpage.mld" {"odoc-pages/odoc_manpage.mld"}
+  "doc/odoc/odoc-pages/odoc_loader.mld" {"odoc-pages/odoc_loader.mld"}
+  "doc/odoc/odoc-pages/odoc_latex.mld" {"odoc-pages/odoc_latex.mld"}
+  "doc/odoc/odoc-pages/odoc_html.mld" {"odoc-pages/odoc_html.mld"}
+  "doc/odoc/odoc-pages/odoc_for_authors.mld"
+    {"odoc-pages/odoc_for_authors.mld"}
+  "doc/odoc/odoc-pages/odoc_examples.mld" {"odoc-pages/odoc_examples.mld"}
+  "doc/odoc/odoc-pages/odoc_document.mld" {"odoc-pages/odoc_document.mld"}
+  "doc/odoc/odoc-pages/ocamldoc_differences.mld"
+    {"odoc-pages/ocamldoc_differences.mld"}
+  "doc/odoc/odoc-pages/interface.mld" {"odoc-pages/interface.mld"}
+  "doc/odoc/odoc-pages/index.mld" {"odoc-pages/index.mld"}
+  "doc/odoc/odoc-pages/features.mld" {"odoc-pages/features.mld"}
+  "doc/odoc/odoc-pages/dune.mld" {"odoc-pages/dune.mld"}
+  "doc/odoc/odoc-pages/driver.mld" {"odoc-pages/driver.mld"}
+  "doc/odoc/odoc-pages/contributing.mld" {"odoc-pages/contributing.mld"}
+  "doc/odoc/README.md" {"README.md"}
+  "doc/odoc/LICENSE.md" {"LICENSE.md"}
+  "doc/odoc/CHANGES.md" {"CHANGES.md"}
+]

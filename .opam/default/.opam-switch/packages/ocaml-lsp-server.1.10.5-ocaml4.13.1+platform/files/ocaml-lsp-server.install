@@ -1,0 +1,8 @@
+doc: [
+  "doc/ocaml-lsp-server/README.md" {"README.md"}
+  "doc/ocaml-lsp-server/LICENSE.md" {"LICENSE.md"}
+  "doc/ocaml-lsp-server/CHANGES.md" {"CHANGES.md"}
+]
+bin: [
+  "bin/ocamllsp" {"ocamllsp"}
+]

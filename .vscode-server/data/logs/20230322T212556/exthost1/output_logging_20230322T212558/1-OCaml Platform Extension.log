@@ -1,0 +1,255 @@
+external command {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "--version"
+  ]
+}
+
+external command {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "--version"
+  ]
+}
+
+external command {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "--version"
+  ]
+}
+
+external command (finished) {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "--version"
+  ],
+  "result": {
+    "exitCode": 0,
+    "stdout": "2.1.4\n",
+    "stderr": ""
+  }
+}
+
+external command {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "var",
+    "--global",
+    "root"
+  ]
+}
+
+external command (finished) {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "--version"
+  ],
+  "result": {
+    "exitCode": 0,
+    "stdout": "2.1.4\n",
+    "stderr": ""
+  }
+}
+
+external command {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "var",
+    "--global",
+    "root"
+  ]
+}
+
+external command (finished) {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "--version"
+  ],
+  "result": {
+    "exitCode": 0,
+    "stdout": "2.1.4\n",
+    "stderr": ""
+  }
+}
+
+external command {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "var",
+    "--global",
+    "root"
+  ]
+}
+
+external command (finished) {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "var",
+    "--global",
+    "root"
+  ],
+  "result": {
+    "exitCode": 0,
+    "stdout": "/home/hong/.opam\n",
+    "stderr": ""
+  }
+}
+
+external command (finished) {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "var",
+    "--global",
+    "root"
+  ],
+  "result": {
+    "exitCode": 0,
+    "stdout": "/home/hong/.opam\n",
+    "stderr": ""
+  }
+}
+
+external command {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "switch",
+    "show",
+    "--root",
+    "/home/hong/.opam"
+  ]
+}
+
+external command (finished) {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "var",
+    "--global",
+    "root"
+  ],
+  "result": {
+    "exitCode": 0,
+    "stdout": "/home/hong/.opam\n",
+    "stderr": ""
+  }
+}
+
+external command (finished) {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "switch",
+    "show",
+    "--root",
+    "/home/hong/.opam"
+  ],
+  "result": {
+    "exitCode": 0,
+    "stdout": "default\n",
+    "stderr": ""
+  }
+}
+
+external command {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "switch",
+    "show",
+    "--root",
+    "/home/hong/.opam"
+  ]
+}
+
+external command (finished) {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "switch",
+    "show",
+    "--root",
+    "/home/hong/.opam"
+  ],
+  "result": {
+    "exitCode": 0,
+    "stdout": "default\n",
+    "stderr": ""
+  }
+}
+
+external command {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "exec",
+    "--switch=default",
+    "--set-switch",
+    "--root",
+    "/home/hong/.opam",
+    "--",
+    "ocamlc",
+    "--version"
+  ]
+}
+
+external command (finished) {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "exec",
+    "--switch=default",
+    "--set-switch",
+    "--root",
+    "/home/hong/.opam",
+    "--",
+    "ocamlc",
+    "--version"
+  ],
+  "result": {
+    "exitCode": 0,
+    "stdout": "4.13.1\n",
+    "stderr": ""
+  }
+}
+
+external command {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "exec",
+    "--switch=default",
+    "--set-switch",
+    "--root",
+    "/home/hong/.opam",
+    "--",
+    "ocamllsp",
+    "--version"
+  ]
+}
+
+external command (finished) {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "exec",
+    "--switch=default",
+    "--set-switch",
+    "--root",
+    "/home/hong/.opam",
+    "--",
+    "ocamllsp",
+    "--version"
+  ],
+  "result": {
+    "exitCode": 0,
+    "stdout": "1.10.5\n",
+    "stderr": ""
+  }
+}
+
+external command {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "exec",
+    "--switch=default",
+    "--set-switch",
+    "--root",
+    "/home/hong/.opam",
+    "--",
+    "ocamllsp"
+  ]
+}
+

@@ -1,0 +1,47 @@
+share_root: [
+  "share/emacs/site-lisp/merlin.el" {"emacs/site-lisp/merlin.el"}
+  "share/emacs/site-lisp/merlin-xref.el" {"emacs/site-lisp/merlin-xref.el"}
+  "share/emacs/site-lisp/merlin-imenu.el" {"emacs/site-lisp/merlin-imenu.el"}
+  "share/emacs/site-lisp/merlin-iedit.el" {"emacs/site-lisp/merlin-iedit.el"}
+  "share/emacs/site-lisp/merlin-company.el"
+    {"emacs/site-lisp/merlin-company.el"}
+  "share/emacs/site-lisp/merlin-cap.el" {"emacs/site-lisp/merlin-cap.el"}
+  "share/emacs/site-lisp/merlin-ac.el" {"emacs/site-lisp/merlin-ac.el"}
+]
+share: [
+  "share/merlin/vim/syntax_checkers/omlet/merlin.vim"
+    {"vim/syntax_checkers/omlet/merlin.vim"}
+  "share/merlin/vim/syntax_checkers/ocaml/merlin.vim"
+    {"vim/syntax_checkers/ocaml/merlin.vim"}
+  "share/merlin/vim/syntax/merlin.vim" {"vim/syntax/merlin.vim"}
+  "share/merlin/vim/plugin/merlin.vim" {"vim/plugin/merlin.vim"}
+  "share/merlin/vim/ftplugin/reason.vim" {"vim/ftplugin/reason.vim"}
+  "share/merlin/vim/ftplugin/omlet.vim" {"vim/ftplugin/omlet.vim"}
+  "share/merlin/vim/ftplugin/ocaml.vim" {"vim/ftplugin/ocaml.vim"}
+  "share/merlin/vim/ftplugin/merlin.vim" {"vim/ftplugin/merlin.vim"}
+  "share/merlin/vim/ftdetect/merlin.vim" {"vim/ftdetect/merlin.vim"}
+  "share/merlin/vim/doc/merlin.txt" {"vim/doc/merlin.txt"}
+  "share/merlin/vim/autoload/neomake/makers/ft/ocaml.vim"
+    {"vim/autoload/neomake/makers/ft/ocaml.vim"}
+  "share/merlin/vim/autoload/merlin_visual.vim"
+    {"vim/autoload/merlin_visual.vim"}
+  "share/merlin/vim/autoload/merlin_type.vim"
+    {"vim/autoload/merlin_type.vim"}
+  "share/merlin/vim/autoload/merlin_find.vim"
+    {"vim/autoload/merlin_find.vim"}
+  "share/merlin/vim/autoload/merlin.vim" {"vim/autoload/merlin.vim"}
+  "share/merlin/vim/autoload/merlin.py" {"vim/autoload/merlin.py"}
+  "share/merlin/vim/autoload/ctrlp/outline.vim"
+    {"vim/autoload/ctrlp/outline.vim"}
+  "share/merlin/vim/autoload/ctrlp/locate.vim"
+    {"vim/autoload/ctrlp/locate.vim"}
+]
+doc: [
+  "doc/merlin/README.md" {"README.md"}
+  "doc/merlin/LICENSE" {"LICENSE"}
+  "doc/merlin/CHANGES.md" {"CHANGES.md"}
+]
+bin: [
+  "bin/ocamlmerlin-server" {"ocamlmerlin-server"}
+  "bin/ocamlmerlin" {"ocamlmerlin"}
+]

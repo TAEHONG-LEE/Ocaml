@@ -1,0 +1,21 @@
+opam-version: "2.0"
+added: [
+  "doc/ppx_cold" {"D"}
+  "doc/ppx_cold/LICENSE.md" {"F:S1117T1677815284.34"}
+  "doc/ppx_cold/README.md" {"F:S146T1677815284.34"}
+  "lib/ppx_cold" {"D"}
+  "lib/ppx_cold/META" {"F:S460T1677815284.23"}
+  "lib/ppx_cold/dune-package" {"F:S798T1677815284.23"}
+  "lib/ppx_cold/opam" {"F:S700T1677815284.23"}
+  "lib/ppx_cold/ppx.exe" {"F:S18872840T1677815284.34"}
+  "lib/ppx_cold/ppx_cold.a" {"F:S28052T1677815284.23"}
+  "lib/ppx_cold/ppx_cold.cma" {"F:S86693T1677815284.23"}
+  "lib/ppx_cold/ppx_cold.cmi" {"F:S3606T1677815284.23"}
+  "lib/ppx_cold/ppx_cold.cmt" {"F:S100594T1677815284.23"}
+  "lib/ppx_cold/ppx_cold.cmti" {"F:S10097T1677815284.23"}
+  "lib/ppx_cold/ppx_cold.cmx" {"F:S7440T1677815284.23"}
+  "lib/ppx_cold/ppx_cold.cmxa" {"F:S7322T1677815284.23"}
+  "lib/ppx_cold/ppx_cold.cmxs" {"F:S45568T1677815284.34"}
+  "lib/ppx_cold/ppx_cold.ml" {"F:S1141T1677815284.23"}
+  "lib/ppx_cold/ppx_cold.mli" {"F:S89T1677815284.23"}
+]

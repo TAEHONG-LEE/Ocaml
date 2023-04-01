@@ -1,0 +1,35 @@
+2023-03-10 13:06:29.570 [info] 
+
+
+
+
+2023-03-10 13:06:29.570 [info] Extension host agent started.
+2023-03-10 13:06:29.588 [info] Started initializing default profile extensions in extensions installation folder. file:///home/hong/.vscode-server/extensions
+2023-03-10 13:06:29.604 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/hong/.vscode-server/extensions
+2023-03-10 13:06:29.650 [info] [127.0.0.1][b939cf4d][ManagementConnection] New connection established.
+2023-03-10 13:06:29.758 [info] Installing extensions...
+2023-03-10 13:06:29.809 [info] [127.0.0.1][d569ab7b][ExtensionHostConnection] New connection established.
+2023-03-10 13:06:29.839 [info] [127.0.0.1][d569ab7b][ExtensionHostConnection] <187> Launched Extension Host Process.
+2023-03-10 13:06:30.762 [info] Installing extension 'ms-ceintl.vscode-language-pack-ko'...
+2023-03-10 13:06:30.767 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ko
+2023-03-10 13:06:31.587 [info] Installing extension: ms-ceintl.vscode-language-pack-ko
+2023-03-10 13:06:35.286 [info] Extension signature verification: ms-ceintl.vscode-language-pack-ko. Verification status: Verified.
+2023-03-10 13:06:35.369 [info] Extracted extension to /home/hong/.vscode-server/extensions/.411ae464-9c52-4f40-ae6f-691591bd5a38: ms-ceintl.vscode-language-pack-ko
+2023-03-10 13:06:35.383 [info] Renamed to /home/hong/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.76.2023030809
+2023-03-10 13:06:35.384 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ko
+2023-03-10 13:06:35.388 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ko
+2023-03-10 13:06:35.415 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ko
+2023-03-10 13:06:35.415 [info] Extension 'ms-ceintl.vscode-language-pack-ko' v1.76.2023030809 was successfully installed.
+2023-03-10 13:06:37.702 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ko
+2023-03-10 13:06:38.301 [info] Installing extension: ms-ceintl.vscode-language-pack-ko
+2023-03-10 13:06:38.389 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ko
+2023-03-10 13:06:38.409 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ko
+2023-03-10 13:07:38.575 [info] Getting Manifest... ocamllabs.ocaml-platform
+2023-03-10 13:07:39.234 [info] Installing extension: ocamllabs.ocaml-platform
+2023-03-10 13:07:42.450 [info] Extension signature verification: ocamllabs.ocaml-platform. Verification status: Verified.
+2023-03-10 13:07:42.563 [info] Extracted extension to /home/hong/.vscode-server/extensions/.c0e4ab0d-6f58-41db-a6bc-5c60dc1fe6f2: ocamllabs.ocaml-platform
+2023-03-10 13:07:42.578 [info] Renamed to /home/hong/.vscode-server/extensions/ocamllabs.ocaml-platform-1.12.2
+2023-03-10 13:07:42.579 [info] Extracting extension completed. ocamllabs.ocaml-platform
+2023-03-10 13:07:42.587 [info] Extension installed successfully: ocamllabs.ocaml-platform
+2023-03-10 14:02:10.820 [info] [127.0.0.1][b939cf4d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-10 14:02:10.866 [info] [127.0.0.1][d569ab7b][ExtensionHostConnection] <187> Extension Host Process exited with code: 0, signal: null.

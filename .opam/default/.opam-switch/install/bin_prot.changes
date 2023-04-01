@@ -1,0 +1,124 @@
+opam-version: "2.0"
+added: [
+  "doc/bin_prot" {"D"}
+  "doc/bin_prot/CHANGES.md" {"F:S9515T1677815290.64"}
+  "doc/bin_prot/CHANGES.txt" {"F:S3168T1677815290.64"}
+  "doc/bin_prot/LICENSE-Tywith.txt" {"F:S1544T1677815290.64"}
+  "doc/bin_prot/LICENSE.md" {"F:S1117T1677815290.64"}
+  "doc/bin_prot/README.md" {"F:S16795T1677815290.64"}
+  "lib/bin_prot" {"D"}
+  "lib/bin_prot/META" {"F:S1020T1677815290.63"}
+  "lib/bin_prot/bin_prot.a" {"F:S403478T1677815290.63"}
+  "lib/bin_prot/bin_prot.cma" {"F:S728588T1677815290.63"}
+  "lib/bin_prot/bin_prot.cmi" {"F:S1170T1677815290.63"}
+  "lib/bin_prot/bin_prot.cmt" {"F:S7134T1677815290.63"}
+  "lib/bin_prot/bin_prot.cmx" {"F:S351T1677815290.63"}
+  "lib/bin_prot/bin_prot.cmxa" {"F:S47508T1677815290.63"}
+  "lib/bin_prot/bin_prot.cmxs" {"F:S417672T1677815290.64"}
+  "lib/bin_prot/bin_prot.ml" {"F:S884T1677815290.63"}
+  "lib/bin_prot/bin_prot__Binable.cmi" {"F:S13171T1677815290.63"}
+  "lib/bin_prot/bin_prot__Binable.cmt" {"F:S54071T1677815290.63"}
+  "lib/bin_prot/bin_prot__Binable.cmx" {"F:S4770T1677815290.63"}
+  "lib/bin_prot/bin_prot__Blob.cmi" {"F:S9882T1677815290.63"}
+  "lib/bin_prot/bin_prot__Blob.cmt" {"F:S93732T1677815290.63"}
+  "lib/bin_prot/bin_prot__Blob.cmti" {"F:S38041T1677815290.63"}
+  "lib/bin_prot/bin_prot__Blob.cmx" {"F:S11548T1677815290.63"}
+  "lib/bin_prot/bin_prot__Common.cmi" {"F:S9770T1677815290.63"}
+  "lib/bin_prot/bin_prot__Common.cmt" {"F:S106482T1677815290.63"}
+  "lib/bin_prot/bin_prot__Common.cmti" {"F:S55742T1677815290.63"}
+  "lib/bin_prot/bin_prot__Common.cmx" {"F:S7078T1677815290.63"}
+  "lib/bin_prot/bin_prot__Md5.cmi" {"F:S5861T1677815290.63"}
+  "lib/bin_prot/bin_prot__Md5.cmt" {"F:S14931T1677815290.63"}
+  "lib/bin_prot/bin_prot__Md5.cmti" {"F:S17519T1677815290.63"}
+  "lib/bin_prot/bin_prot__Md5.cmx" {"F:S6681T1677815290.63"}
+  "lib/bin_prot/bin_prot__Nat0.cmi" {"F:S502T1677815290.63"}
+  "lib/bin_prot/bin_prot__Nat0.cmt" {"F:S5579T1677815290.63"}
+  "lib/bin_prot/bin_prot__Nat0.cmti" {"F:S5401T1677815290.63"}
+  "lib/bin_prot/bin_prot__Nat0.cmx" {"F:S481T1677815290.63"}
+  "lib/bin_prot/bin_prot__Read.cmi" {"F:S5550T1677815290.63"}
+  "lib/bin_prot/bin_prot__Read.cmt" {"F:S320442T1677815290.63"}
+  "lib/bin_prot/bin_prot__Read.cmti" {"F:S28594T1677815290.63"}
+  "lib/bin_prot/bin_prot__Read.cmx" {"F:S10308T1677815290.63"}
+  "lib/bin_prot/bin_prot__Shape.cmi" {"F:S10559T1677815290.63"}
+  "lib/bin_prot/bin_prot__Shape.cmt" {"F:S59963T1677815290.63"}
+  "lib/bin_prot/bin_prot__Shape.cmx" {"F:S12311T1677815290.63"}
+  "lib/bin_prot/bin_prot__Size.cmi" {"F:S10601T1677815290.63"}
+  "lib/bin_prot/bin_prot__Size.cmt" {"F:S113863T1677815290.63"}
+  "lib/bin_prot/bin_prot__Size.cmti" {"F:S49256T1677815290.63"}
+  "lib/bin_prot/bin_prot__Size.cmx" {"F:S7082T1677815290.63"}
+  "lib/bin_prot/bin_prot__Std.cmi" {"F:S34886T1677815290.63"}
+  "lib/bin_prot/bin_prot__Std.cmt" {"F:S169680T1677815290.63"}
+  "lib/bin_prot/bin_prot__Std.cmx" {"F:S46777T1677815290.63"}
+  "lib/bin_prot/bin_prot__Type_class.cmi" {"F:S25729T1677815290.63"}
+  "lib/bin_prot/bin_prot__Type_class.cmt" {"F:S208323T1677815290.63"}
+  "lib/bin_prot/bin_prot__Type_class.cmti" {"F:S107471T1677815290.63"}
+  "lib/bin_prot/bin_prot__Type_class.cmx" {"F:S37627T1677815290.63"}
+  "lib/bin_prot/bin_prot__Utils.cmi" {"F:S21995T1677815290.63"}
+  "lib/bin_prot/bin_prot__Utils.cmt" {"F:S338908T1677815290.63"}
+  "lib/bin_prot/bin_prot__Utils.cmti" {"F:S47978T1677815290.63"}
+  "lib/bin_prot/bin_prot__Utils.cmx" {"F:S17683T1677815290.63"}
+  "lib/bin_prot/bin_prot__Utils_intf.cmi" {"F:S31040T1677815290.64"}
+  "lib/bin_prot/bin_prot__Utils_intf.cmt" {"F:S110203T1677815290.64"}
+  "lib/bin_prot/bin_prot__Utils_intf.cmx" {"F:S4780T1677815290.64"}
+  "lib/bin_prot/bin_prot__Write.cmi" {"F:S5831T1677815290.64"}
+  "lib/bin_prot/bin_prot__Write.cmt" {"F:S222979T1677815290.64"}
+  "lib/bin_prot/bin_prot__Write.cmti" {"F:S32118T1677815290.64"}
+  "lib/bin_prot/bin_prot__Write.cmx" {"F:S9278T1677815290.64"}
+  "lib/bin_prot/binable.ml" {"F:S3789T1677815290.64"}
+  "lib/bin_prot/blob.ml" {"F:S5542T1677815290.64"}
+  "lib/bin_prot/blob.mli" {"F:S5116T1677815290.64"}
+  "lib/bin_prot/common.ml" {"F:S8090T1677815290.64"}
+  "lib/bin_prot/common.mli" {"F:S7729T1677815290.64"}
+  "lib/bin_prot/dune-package" {"F:S27T1677815290.64"}
+  "lib/bin_prot/libbin_prot_stubs.a" {"F:S22442T1677815290.64"}
+  "lib/bin_prot/md5.ml" {"F:S334T1677815290.64"}
+  "lib/bin_prot/md5.mli" {"F:S241T1677815290.64"}
+  "lib/bin_prot/nat0.ml" {"F:S187T1677815290.64"}
+  "lib/bin_prot/nat0.mli" {"F:S240T1677815290.64"}
+  "lib/bin_prot/opam" {"F:S1132T1677815290.64"}
+  "lib/bin_prot/read.ml" {"F:S20588T1677815290.64"}
+  "lib/bin_prot/read.mli" {"F:S2382T1677815290.64"}
+  "lib/bin_prot/runtime.js" {"F:S2976T1677815290.64"}
+  "lib/bin_prot/shape.ml" {"F:S2856T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape.ml" {"F:S24086T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape.mli" {"F:S5571T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape_lib.a" {"F:S235700T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape_lib.cma" {"F:S405751T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape_lib.cmi" {"F:S336T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape_lib.cmt" {"F:S2974T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape_lib.cmx" {"F:S154T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape_lib.cmxa" {"F:S5430T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape_lib.cmxs" {"F:S236920T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape_lib.ml" {"F:S180T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape_lib__Bin_shape.cmi"
+    {"F:S10958T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape_lib__Bin_shape.cmt"
+    {"F:S828970T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape_lib__Bin_shape.cmti"
+    {"F:S43649T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape_lib__Bin_shape.cmx"
+    {"F:S59811T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape_lib__Std.cmi" {"F:S320T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape_lib__Std.cmt" {"F:S3717T1677815290.64"}
+  "lib/bin_prot/shape/bin_shape_lib__Std.cmx" {"F:S215T1677815290.64"}
+  "lib/bin_prot/shape/std.ml" {"F:S25T1677815290.64"}
+  "lib/bin_prot/size.ml" {"F:S8101T1677815290.64"}
+  "lib/bin_prot/size.mli" {"F:S4323T1677815290.64"}
+  "lib/bin_prot/std.ml" {"F:S11454T1677815290.64"}
+  "lib/bin_prot/type_class.ml" {"F:S20331T1677815290.64"}
+  "lib/bin_prot/type_class.mli" {"F:S9074T1677815290.64"}
+  "lib/bin_prot/utils.ml" {"F:S18655T1677815290.64"}
+  "lib/bin_prot/utils.mli" {"F:S25T1677815290.64"}
+  "lib/bin_prot/utils_intf.ml" {"F:S9741T1677815290.64"}
+  "lib/bin_prot/write.ml" {"F:S13766T1677815290.64"}
+  "lib/bin_prot/write.mli" {"F:S3901T1677815290.64"}
+  "lib/bin_prot/xen/bin_prot_xen.a" {"F:S2046T1677815290.64"}
+  "lib/bin_prot/xen/bin_prot_xen.cma" {"F:S1878T1677815290.64"}
+  "lib/bin_prot/xen/bin_prot_xen.cmi" {"F:S125T1677815290.64"}
+  "lib/bin_prot/xen/bin_prot_xen.cmt" {"F:S2060T1677815290.64"}
+  "lib/bin_prot/xen/bin_prot_xen.cmx" {"F:S103T1677815290.64"}
+  "lib/bin_prot/xen/bin_prot_xen.cmxa" {"F:S109T1677815290.64"}
+  "lib/bin_prot/xen/bin_prot_xen.cmxs" {"F:S16088T1677815290.64"}
+  "lib/bin_prot/xen/bin_prot_xen.ml" {"F:S24T1677815290.64"}
+  "lib/stublibs/dllbin_prot_stubs.so" {"F:S26032T1677815290.64"}
+]

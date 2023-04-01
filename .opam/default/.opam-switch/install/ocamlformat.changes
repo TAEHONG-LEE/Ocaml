@@ -1,0 +1,22 @@
+opam-version: "2.0"
+added: [
+  "bin/ocamlformat" {"F:S30007912T1679042879.81"}
+  "bin/ocamlformat-rpc" {"F:S30087832T1679042879.8"}
+  "bin/ocamlformat.parser_recovery.test_driver" {"F:S14269480T1679042879.78"}
+  "bin/ocamlformat.parser_recovery.test_gen" {"F:S1000616T1679042879.78"}
+  "doc/ocamlformat" {"D"}
+  "doc/ocamlformat/CHANGES.md" {"F:S79173T1679042879.82"}
+  "doc/ocamlformat/LICENSE.md" {"F:S1080T1679042879.82"}
+  "doc/ocamlformat/README.md" {"F:S1811T1679042879.82"}
+  "doc/ocamlformat/odoc-pages/api.mld" {"F:S523T1679042879.82"}
+  "doc/ocamlformat/odoc-pages/doc_comments.mld" {"F:S1204T1679042879.82"}
+  "doc/ocamlformat/odoc-pages/editor_setup.mld" {"F:S4397T1679042879.82"}
+  "doc/ocamlformat/odoc-pages/faq.mld" {"F:S4660T1679042879.82"}
+  "doc/ocamlformat/odoc-pages/getting_started.mld" {"F:S6544T1679042879.82"}
+  "doc/ocamlformat/odoc-pages/howtos.mld" {"F:S2039T1679042879.82"}
+  "doc/ocamlformat/odoc-pages/index.mld" {"F:S596T1679042879.82"}
+  "doc/ocamlformat/odoc-pages/rpc.mld" {"F:S2973T1679042879.82"}
+  "man/man1/ocamlformat-rpc.1" {"F:S3604T1679042879.82"}
+  "man/man1/ocamlformat.1" {"F:S35561T1679042879.81"}
+  "share/emacs/site-lisp/ocamlformat.el" {"F:S16851T1679042879.82"}
+]

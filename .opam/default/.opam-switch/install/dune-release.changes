@@ -1,0 +1,8 @@
+opam-version: "2.0"
+added: [
+  "bin/dune-release" {"F:S9639832T1679042876.62"}
+  "doc/dune-release" {"D"}
+  "doc/dune-release/CHANGES.md" {"F:S16693T1679042876.62"}
+  "doc/dune-release/LICENSE" {"F:S735T1679042876.62"}
+  "doc/dune-release/README.md" {"F:S7469T1679042876.62"}
+]

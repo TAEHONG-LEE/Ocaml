@@ -1,0 +1,21 @@
+opam-version: "2.0"
+added: [
+  "doc/ppx_string" {"D"}
+  "doc/ppx_string/LICENSE.md" {"F:S1117T1677815290.63"}
+  "doc/ppx_string/README.org" {"F:S2126T1677815290.63"}
+  "lib/ppx_string" {"D"}
+  "lib/ppx_string/META" {"F:S787T1677815290.61"}
+  "lib/ppx_string/dune-package" {"F:S990T1677815290.61"}
+  "lib/ppx_string/opam" {"F:S723T1677815290.61"}
+  "lib/ppx_string/ppx.exe" {"F:S18892904T1677815290.63"}
+  "lib/ppx_string/ppx_string.a" {"F:S57132T1677815290.61"}
+  "lib/ppx_string/ppx_string.cma" {"F:S88742T1677815290.61"}
+  "lib/ppx_string/ppx_string.cmi" {"F:S7057T1677815290.61"}
+  "lib/ppx_string/ppx_string.cmt" {"F:S177020T1677815290.61"}
+  "lib/ppx_string/ppx_string.cmti" {"F:S18140T1677815290.62"}
+  "lib/ppx_string/ppx_string.cmx" {"F:S10214T1677815290.62"}
+  "lib/ppx_string/ppx_string.cmxa" {"F:S7627T1677815290.62"}
+  "lib/ppx_string/ppx_string.cmxs" {"F:S80032T1677815290.63"}
+  "lib/ppx_string/ppx_string.ml" {"F:S7845T1677815290.62"}
+  "lib/ppx_string/ppx_string.mli" {"F:S145T1677815290.62"}
+]

@@ -1,0 +1,8 @@
+opam-version: "2.0"
+added: [
+  "bin/ocamllsp" {"F:S19398608T1679042877.11"}
+  "doc/ocaml-lsp-server" {"D"}
+  "doc/ocaml-lsp-server/CHANGES.md" {"F:S7615T1679042877.11"}
+  "doc/ocaml-lsp-server/LICENSE.md" {"F:S818T1679042877.11"}
+  "doc/ocaml-lsp-server/README.md" {"F:S6185T1679042877.11"}
+]

@@ -1,0 +1,407 @@
+2023-03-31 12:13:05.085 [info] 로그 수준: Info
+2023-03-31 12:13:05.085 [info] "git"에서 찾은 git 유효성을 검사하는 중
+2023-03-31 12:13:05.085 [info] "2.34.1"에서 git "git"을(를) 사용하는 중
+2023-03-31 12:13:05.085 [info] > git rev-parse --show-toplevel [5ms]
+2023-03-31 12:13:05.085 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:13:05.085 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 12:13:05.085 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:13:05.085 [info] > git rev-parse --show-toplevel [6ms]
+2023-03-31 12:13:05.085 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:13:05.085 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-31 12:13:05.085 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:13:05.085 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 12:13:05.085 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:13:05.085 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 12:13:05.085 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:13:05.085 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 12:13:05.085 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:13:05.085 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 12:13:05.085 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:13:05.085 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 12:13:05.085 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:13:05.085 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 12:13:05.085 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:13:05.085 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 12:13:05.085 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:13:05.585 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 12:13:05.585 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:15:12.318 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 12:15:12.318 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:15:13.716 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 12:15:13.716 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:15:16.441 [info] > git rev-parse --show-toplevel [5ms]
+2023-03-31 12:15:16.441 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:15:19.430 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 12:15:19.430 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:15:21.348 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 12:15:21.348 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:15:23.508 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 12:15:23.508 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:15:26.318 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-31 12:15:26.318 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:15:28.856 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 12:15:28.856 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:15:30.585 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 12:15:30.585 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:15:32.294 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-31 12:15:32.294 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:16:05.476 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 12:16:05.476 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:16:29.082 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 12:16:29.082 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:17:22.828 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 12:17:22.828 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:17:28.080 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-31 12:17:28.080 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:17:29.811 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 12:17:29.811 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:17:29.817 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 12:17:29.817 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 12:17:29.822 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 12:17:29.823 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:12:58.090 [info] > git rev-parse --show-toplevel [8ms]
+2023-03-31 13:12:58.090 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:12:58.117 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 13:12:58.117 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:12:58.131 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 13:12:58.131 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:13:07.735 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-31 13:13:07.735 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:13:07.739 [info] > git rev-parse --show-toplevel [0ms]
+2023-03-31 13:13:07.739 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:13:07.747 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 13:13:07.747 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:13:13.882 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 13:13:13.882 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:13:13.929 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 13:13:13.929 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:13:13.933 [info] > git rev-parse --show-toplevel [0ms]
+2023-03-31 13:13:13.934 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:19:06.722 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 13:19:06.722 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:19:06.727 [info] > git rev-parse --show-toplevel [0ms]
+2023-03-31 13:19:06.727 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:19:06.733 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 13:19:06.734 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:19:12.222 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 13:19:12.222 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:19:12.229 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 13:19:12.229 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:19:12.235 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 13:19:12.235 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:19:12.248 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 13:19:12.248 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:42:31.647 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 13:42:31.647 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:42:31.652 [info] > git rev-parse --show-toplevel [0ms]
+2023-03-31 13:42:31.652 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:42:31.660 [info] > git rev-parse --show-toplevel [0ms]
+2023-03-31 13:42:31.660 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:47:17.887 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 13:47:17.887 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:47:17.902 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 13:47:17.902 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 13:47:17.907 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 13:47:17.907 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:01:47.750 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:01:47.750 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:01:47.759 [info] > git rev-parse --show-toplevel [0ms]
+2023-03-31 14:01:47.759 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:01:47.770 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:01:47.770 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:07:54.834 [info] > git rev-parse --show-toplevel [6ms]
+2023-03-31 14:07:54.834 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:07:54.847 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 14:07:54.847 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:07:54.858 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 14:07:54.858 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:08:46.521 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-31 14:08:46.522 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:08:46.528 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:08:46.528 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:08:46.540 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:08:46.540 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:08:50.820 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 14:08:50.820 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:08:50.827 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:08:50.827 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:08:50.835 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:08:50.835 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:08:51.665 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-31 14:08:51.665 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:08:51.673 [info] > git rev-parse --show-toplevel [0ms]
+2023-03-31 14:08:51.673 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:08:51.677 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:08:51.677 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:13:26.101 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:13:26.101 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:13:26.107 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:13:26.107 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:13:26.111 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:13:26.111 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:13:33.764 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 14:13:33.764 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:13:33.773 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:13:33.773 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:13:33.777 [info] > git rev-parse --show-toplevel [0ms]
+2023-03-31 14:13:33.777 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:16:50.553 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:16:50.554 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:16:50.558 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:16:50.558 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:16:50.565 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-31 14:16:50.566 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:21:02.360 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:21:02.360 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:21:02.371 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 14:21:02.371 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:21:02.379 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:21:02.379 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:21:05.100 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:21:05.100 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:21:05.104 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:21:05.104 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:21:05.111 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:21:05.111 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:21:06.470 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 14:21:06.470 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:21:06.478 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:21:06.478 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:21:06.489 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:21:06.489 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:21:18.699 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-31 14:21:18.699 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:21:18.704 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:21:18.704 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 14:21:18.708 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-31 14:21:18.708 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 23:18:43.699 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 23:18:43.699 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 23:18:43.778 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 23:18:43.778 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-31 23:18:43.803 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-31 23:18:43.804 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 02:18:55.758 [info] > git rev-parse --show-toplevel [8ms]
+2023-04-01 02:18:55.759 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 02:18:55.775 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-01 02:18:55.775 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 02:18:55.795 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 02:18:55.795 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:18:49.921 [info] > git rev-parse --show-toplevel [4ms]
+2023-04-01 17:18:49.921 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:18:49.937 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-01 17:18:49.937 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:18:49.948 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-01 17:18:49.948 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:18:51.877 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-01 17:18:51.878 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:18:51.886 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 17:18:51.886 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:18:51.890 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 17:18:51.890 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:39:40.631 [info] > git rev-parse --show-toplevel [5ms]
+2023-04-01 17:39:40.631 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:39:40.642 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 17:39:40.642 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:39:40.655 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 17:39:40.655 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:39:43.140 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-01 17:39:43.140 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:39:43.149 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-01 17:39:43.149 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:39:43.172 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-01 17:39:43.172 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:39:43.186 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 17:39:43.186 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:44:44.725 [info] > git rev-parse --show-toplevel [9ms]
+2023-04-01 17:44:44.725 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:44:44.739 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 17:44:44.739 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:44:44.744 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 17:44:44.744 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:44:46.303 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-01 17:44:46.303 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:44:46.307 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-01 17:44:46.307 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:44:46.317 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-01 17:44:46.317 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:44:46.984 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 17:44:46.984 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:44:46.988 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-01 17:44:46.988 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:44:46.993 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 17:44:46.993 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:44:49.524 [info] > git rev-parse --show-toplevel [14ms]
+2023-04-01 17:44:49.524 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:44:49.535 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-01 17:44:49.535 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:44:49.548 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-01 17:44:49.548 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:46:40.585 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-01 17:46:40.585 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:46:40.589 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 17:46:40.589 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:46:40.593 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 17:46:40.593 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:46:41.597 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 17:46:41.597 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:46:41.606 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-01 17:46:41.606 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:46:41.608 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-01 17:46:41.608 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:46:41.616 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 17:46:41.616 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:46:41.633 [info] > git rev-parse --show-toplevel [5ms]
+2023-04-01 17:46:41.633 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 17:46:41.643 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 17:46:41.643 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:40.462 [info] > git rev-parse --show-toplevel [4ms]
+2023-04-01 22:10:40.462 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:40.476 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:10:40.476 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:40.490 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:10:40.490 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:40.498 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:10:40.498 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:40.512 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:10:40.512 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:44.380 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-01 22:10:44.380 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:44.388 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:10:44.388 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:44.394 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-01 22:10:44.394 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:44.398 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-01 22:10:44.398 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:44.414 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-01 22:10:44.414 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:48.656 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-01 22:10:48.656 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:48.664 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:10:48.664 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:48.672 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:10:48.672 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:48.679 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:10:48.679 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:48.690 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:10:48.690 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:50.740 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-01 22:10:50.740 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:50.749 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-01 22:10:50.749 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:50.752 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-01 22:10:50.752 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:50.757 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:10:50.757 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:10:50.759 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-01 22:10:50.759 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:11:00.560 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:11:00.560 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:11:00.569 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-01 22:11:00.569 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:11:00.580 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:11:00.580 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:11:00.593 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:11:00.593 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:11:00.596 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:11:00.596 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:11:01.422 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-01 22:11:01.422 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:11:01.470 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:11:01.470 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:11:01.473 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:11:01.473 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:11:01.475 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-01 22:11:01.475 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-01 22:11:01.482 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 22:11:01.483 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:33.025 [info] > git rev-parse --show-toplevel [24ms]
+2023-04-02 01:11:33.025 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:33.043 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-02 01:11:33.043 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:33.056 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 01:11:33.056 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:33.064 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 01:11:33.064 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:33.075 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 01:11:33.075 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:35.996 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 01:11:35.996 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:36.002 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-02 01:11:36.002 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:36.006 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-02 01:11:36.006 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:36.023 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 01:11:36.023 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:36.045 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 01:11:36.045 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:50.272 [info] > git rev-parse --show-toplevel [10ms]
+2023-04-02 01:11:50.272 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:50.283 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-02 01:11:50.283 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:50.290 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-02 01:11:50.290 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:50.295 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 01:11:50.295 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:50.307 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 01:11:50.307 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:52.104 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 01:11:52.104 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:52.109 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 01:11:52.109 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:52.125 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-02 01:11:52.125 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:52.129 [info] > git rev-parse --show-toplevel [0ms]
+2023-04-02 01:11:52.129 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 01:11:52.140 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 01:11:52.140 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-04-02 02:12:37.262 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-02 02:12:37.285 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2023-04-02 02:12:37.302 [info] Open repository: /home/hong/Ocaml
+2023-04-02 02:12:37.316 [info] > git config --get commit.template [2ms]
+2023-04-02 02:12:37.339 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-04-02 02:12:37.357 [info] > git status -z -uall [9ms]
+2023-04-02 02:12:37.368 [info] > git config --get commit.template [1ms]
+2023-04-02 02:12:37.375 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-04-02 02:12:37.384 [info] > git status -z -uall [0ms]
+2023-04-02 02:12:37.814 [info] > git check-ignore -v -z --stdin [4ms]
+2023-04-02 02:12:38.654 [info] > git config --get commit.template [1ms]
+2023-04-02 02:12:38.660 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-02 02:12:38.667 [info] > git status -z -uall [1ms]
+2023-04-02 02:13:27.559 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 02:13:27.563 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-04-02 02:13:27.564 [info] Open repository: /home/hong
+2023-04-02 02:13:27.567 [info] > git config --get commit.template [0ms]
+2023-04-02 02:13:27.568 [info] No remotes found in the git config file.
+2023-04-02 02:13:27.570 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-04-02 02:13:27.775 [info] > git status -z -uall [202ms] (cancelled)
+2023-04-02 02:13:28.098 [info] > git show --textconv :week4/hw04.ml [99ms]
+2023-04-02 02:13:28.098 [info] > git show --textconv :week4/dune [96ms]
+2023-04-02 02:13:28.098 [info] > git show --textconv :week5/dune [94ms]
+2023-04-02 02:13:28.098 [info] > git show --textconv :week5/dune-project [92ms]
+2023-04-02 02:13:28.098 [info] > git show --textconv :week5/hw05.ml [90ms]
+2023-04-02 02:13:28.098 [info] > git show --textconv :week2/hw02.ml [86ms]
+2023-04-02 02:13:28.098 [info] > git show --textconv :week3/hw03.ml [77ms]
+2023-04-02 02:13:28.099 [info] > git ls-files --stage -- /home/hong/week3/hw03.ml [1ms]
+2023-04-02 02:13:28.099 [info] > git ls-files --stage -- /home/hong/week2/hw02.ml [4ms]
+2023-04-02 02:13:28.099 [info] > git ls-files --stage -- /home/hong/week5/hw05.ml [60ms]
+2023-04-02 02:13:28.100 [info] > git ls-files --stage -- /home/hong/week5/dune-project [64ms]
+2023-04-02 02:13:28.100 [info] > git ls-files --stage -- /home/hong/week5/dune [66ms]
+2023-04-02 02:13:28.100 [info] > git ls-files --stage -- /home/hong/week4/dune [68ms]
+2023-04-02 02:13:28.100 [info] > git ls-files --stage -- /home/hong/week4/hw04.ml [72ms]
+2023-04-02 02:13:28.131 [info] > git check-ignore -v -z --stdin [4ms]
+2023-04-02 02:13:28.132 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-02 02:13:57.649 [info] > git ls-files --stage -- /home/hong/week3/hw03.ml [2ms]
+2023-04-02 02:13:57.650 [info] > git ls-files --stage -- /home/hong/week2/hw02.ml [8ms]
+2023-04-02 02:13:57.652 [info] > git ls-files --stage -- /home/hong/week5/hw05.ml [16ms]
+2023-04-02 02:13:57.652 [info] > git ls-files --stage -- /home/hong/week5/dune-project [20ms]
+2023-04-02 02:13:57.652 [info] > git ls-files --stage -- /home/hong/week5/dune [26ms]
+2023-04-02 02:13:57.652 [info] > git ls-files --stage -- /home/hong/week4/dune [41ms]
+2023-04-02 02:13:57.653 [info] > git ls-files --stage -- /home/hong/week4/hw04.ml [47ms]
+2023-04-02 02:13:57.678 [info] > git show --textconv :week3/hw03.ml [19ms]
+2023-04-02 02:13:57.678 [info] > git show --textconv :week2/hw02.ml [17ms]
+2023-04-02 02:13:57.678 [info] > git show --textconv :week5/hw05.ml [13ms]
+2023-04-02 02:13:57.678 [info] > git show --textconv :week5/dune-project [10ms]
+2023-04-02 02:13:57.678 [info] > git show --textconv :week5/dune [7ms]
+2023-04-02 02:13:57.678 [info] > git show --textconv :week4/dune [4ms]
+2023-04-02 02:13:57.678 [info] > git show --textconv :week4/hw04.ml [0ms]

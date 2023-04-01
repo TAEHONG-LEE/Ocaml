@@ -1,0 +1,19 @@
+l10n: Configured to vscode-local:/c%3A/Users/dnclab/.vscode/extensions/ms-ceintl.vscode-language-pack-ko-1.76.2023031509/translations/extensions/vscode.markdown-language-features.i18n.json
+[Trace 14:18:45.010] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/hong/.viminfo
+[Trace 14:18:45.011] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/hong/.viminfo
+[Trace 14:18:45.012] Server: connection.languages.diagnostics.on: file:///home/hong/.viminfo
+[Trace 14:18:45.014] Server: connection.languages.diagnostics.on: file:///home/hong/.viminfo
+[Trace 14:18:45.022] DocumentSymbolProvider: provideDocumentSymbols — file:///home/hong/.viminfo 1
+[Debug 14:18:45.022] LinkProvider: compute - file:///home/hong/.viminfo
+[Debug 14:18:45.187] TableOfContentsProvider: create - file:///home/hong/.viminfo
+[Debug 14:18:45.218] MdFoldingProvider: provideFoldingRanges — file:///home/hong/.viminfo 1
+[Trace 17:18:49.888] Server: connection.languages.diagnostics.on: file:///home/hong/.viminfo
+[Trace 17:18:50.322] Server: connection.languages.diagnostics.on: file:///home/hong/.viminfo
+[Trace 17:18:55.927] Server: connection.languages.diagnostics.on: file:///home/hong/.viminfo
+[Trace 08:18:49.926] Server: connection.languages.diagnostics.on: file:///home/hong/.viminfo
+[Debug 08:18:50.057] MdFoldingProvider: provideFoldingRanges — file:///home/hong/.viminfo 1
+[Trace 08:18:52.072] Server: connection.languages.diagnostics.on: file:///home/hong/.viminfo
+[Trace 08:39:40.626] Server: connection.languages.diagnostics.on: file:///home/hong/.viminfo
+[Trace 08:39:40.627] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/hong/.viminfo
+[Trace 08:39:40.629] VsCodeClientWorkspace: deleteDocument: file:///home/hong/.viminfo
+[Trace 17:12:37.927] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/hong/Ocaml/README.md

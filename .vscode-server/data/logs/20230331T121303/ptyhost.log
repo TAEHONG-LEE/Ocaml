@@ -1,0 +1,4 @@
+2023-03-31 12:22:56.840 [warning] Shell integration cannot be enabled for executable "/usr/bin/opam" and args ["exec","--switch=default","--set-switch","--root","/home/hong/.opam","--","ocaml"]
+2023-04-01 22:26:10.426 [warning] Shell integration cannot be enabled for executable "/usr/bin/opam" and args ["exec","--switch=default","--set-switch","--root","/home/hong/.opam","--","ocaml"]
+2023-04-01 23:37:06.354 [warning] Shell integration cannot be enabled for executable "/usr/bin/opam" and args ["exec","--switch=default","--set-switch","--root","/home/hong/.opam","--","ocaml"]
+2023-04-01 23:37:06.537 [warning] Shell integration cannot be enabled for executable "/usr/bin/opam" and args ["exec","--switch=default","--set-switch","--root","/home/hong/.opam","--","ocaml"]

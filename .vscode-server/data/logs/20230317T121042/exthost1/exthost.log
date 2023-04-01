@@ -1,0 +1,13 @@
+2023-03-17 12:10:43.305 [info] Extension host with pid 172 started
+2023-03-17 12:10:43.312 [info] Lock '/home/hong/.vscode-server/data/User/workspaceStorage/6c346e6981918aa586010ada4de55989/vscode.lock': Lock acquired.
+2023-03-17 12:10:43.325 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-17 12:10:43.325 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-17 12:10:43.358 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-17 12:10:43.358 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-17 12:10:43.479 [info] Eager extensions activated
+2023-03-17 12:10:43.479 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-17 12:10:43.479 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-17 12:11:00.558 [info] ExtensionService#_doActivateExtension ocamllabs.ocaml-platform, startup: false, activationEvent: 'onLanguage:ocaml'
+2023-03-17 12:14:01.050 [info] Extension host terminating: received terminate message from renderer
+2023-03-17 12:14:01.050 [info] Lock '/home/hong/.vscode-server/data/User/workspaceStorage/6c346e6981918aa586010ada4de55989/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-03-17 12:14:01.074 [info] Extension host with pid 172 exiting with code 0

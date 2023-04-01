@@ -1,0 +1,11 @@
+opam-version: "2.0"
+depends: [
+  "ocaml-system" {= "4.13.1"} | "ocaml-variants" {= "4.13.1"} |
+  "ocaml-base-compiler" {= "4.13.1"}
+]
+available: arch = "x86_64" & os-distribution = "ubuntu"
+extra-files: ["merlin.install" "md5=cd626d05eb4a1ab36fe8681540f66fe3"]
+url {
+  src:
+    "file:///home/hong/.opam/plugins/ocaml-platform/cache/archives/merlin.4.7-413-ocaml4.13.1+platform.tar.gz"
+}

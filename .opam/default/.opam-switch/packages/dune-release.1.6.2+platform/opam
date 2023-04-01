@@ -1,0 +1,8 @@
+opam-version: "2.0"
+depends: ["ocaml-system" | "ocaml-variants" | "ocaml-base-compiler"]
+available: arch = "x86_64" & os-distribution = "ubuntu"
+extra-files: ["dune-release.install" "md5=0f885ba9ab64c1df3a2361420084b2c6"]
+url {
+  src:
+    "file:///home/hong/.opam/plugins/ocaml-platform/cache/archives/dune-release.1.6.2+platform.tar.gz"
+}

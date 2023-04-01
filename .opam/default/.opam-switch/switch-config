@@ -1,0 +1,14 @@
+opam-version: "2.0"
+synopsis: "default"
+repositories: ["platform-cache" "default"]
+opam-root: "/home/hong/.opam"
+invariant: [
+  "ocaml" {>= "4.05.0"}
+]
+paths {
+  
+}
+variables {
+  user: "hong"
+  group: "hong"
+}

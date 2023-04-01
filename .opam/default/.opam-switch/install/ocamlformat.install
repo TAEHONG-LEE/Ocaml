@@ -1,0 +1,31 @@
+opam-version: "2.0"
+bin: [
+  "bin/ocamlformat.parser_recovery.test_gen"
+    {"ocamlformat.parser_recovery.test_gen"}
+  "bin/ocamlformat.parser_recovery.test_driver"
+    {"ocamlformat.parser_recovery.test_driver"}
+  "bin/ocamlformat-rpc" {"ocamlformat-rpc"}
+  "bin/ocamlformat" {"ocamlformat"}
+]
+share_root:
+  "share/emacs/site-lisp/ocamlformat.el" {"emacs/site-lisp/ocamlformat.el"}
+doc: [
+  "doc/ocamlformat/odoc-pages/rpc.mld" {"odoc-pages/rpc.mld"}
+  "doc/ocamlformat/odoc-pages/index.mld" {"odoc-pages/index.mld"}
+  "doc/ocamlformat/odoc-pages/howtos.mld" {"odoc-pages/howtos.mld"}
+  "doc/ocamlformat/odoc-pages/getting_started.mld"
+    {"odoc-pages/getting_started.mld"}
+  "doc/ocamlformat/odoc-pages/faq.mld" {"odoc-pages/faq.mld"}
+  "doc/ocamlformat/odoc-pages/editor_setup.mld"
+    {"odoc-pages/editor_setup.mld"}
+  "doc/ocamlformat/odoc-pages/doc_comments.mld"
+    {"odoc-pages/doc_comments.mld"}
+  "doc/ocamlformat/odoc-pages/api.mld" {"odoc-pages/api.mld"}
+  "doc/ocamlformat/README.md" {"README.md"}
+  "doc/ocamlformat/LICENSE.md" {"LICENSE.md"}
+  "doc/ocamlformat/CHANGES.md" {"CHANGES.md"}
+]
+man: [
+  "man/man1/ocamlformat.1" {"man1/ocamlformat.1"}
+  "man/man1/ocamlformat-rpc.1" {"man1/ocamlformat-rpc.1"}
+]

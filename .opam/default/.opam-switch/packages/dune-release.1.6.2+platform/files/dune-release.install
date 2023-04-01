@@ -1,0 +1,8 @@
+doc: [
+  "doc/dune-release/README.md" {"README.md"}
+  "doc/dune-release/LICENSE" {"LICENSE"}
+  "doc/dune-release/CHANGES.md" {"CHANGES.md"}
+]
+bin: [
+  "bin/dune-release" {"dune-release"}
+]

@@ -1,0 +1,8 @@
+opam-version: "2.0"
+depends: ["ocaml-system" | "ocaml-variants" | "ocaml-base-compiler"]
+available: arch = "x86_64" & os-distribution = "ubuntu"
+extra-files: ["ocamlformat.install" "md5=a2a82042e52982294e8d353fd5946b9e"]
+url {
+  src:
+    "file:///home/hong/.opam/plugins/ocaml-platform/cache/archives/ocamlformat.0.25.1+platform.tar.gz"
+}
