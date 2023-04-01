@@ -115,3 +115,38 @@ sudo apt install zip
 dune clean
 zip 201902737.zip dune hw04.ml 
 code .
+ls
+cd week4
+ls
+dune build
+cd ..
+cd week5
+ls
+dune build
+ls
+dune build
+lks
+cd
+ls
+git clone https://github.com/TAEHONG-LEE/Ocaml.git
+git init
+git remote origin https://github.com/TAEHONG-LEE/Ocaml.git
+git remote add origin https://github.com/TAEHONG-LEE/Ocaml.git
+git add .
+git commit -m "Progress on Ocaml assignments: Completed Weeks 1 to 5"
+git push -u origin main
+git branch
+git branch -m master main
+git push -u origin main
+git pull origin main
+git push -u origin main
+git branch
+git pull origin main
+git push -u origin main
+git pull
+git pull origin main
+git fetch origin main
+git merge origin/main
+git push origin main
+git fetch origin main
+git merge origin/main --allow-unrelated-histories

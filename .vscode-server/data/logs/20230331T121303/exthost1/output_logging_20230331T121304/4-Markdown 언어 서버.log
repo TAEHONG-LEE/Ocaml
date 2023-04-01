@@ -17,3 +17,4 @@ l10n: Configured to vscode-local:/c%3A/Users/dnclab/.vscode/extensions/ms-ceintl
 [Trace 08:39:40.627] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/hong/.viminfo
 [Trace 08:39:40.629] VsCodeClientWorkspace: deleteDocument: file:///home/hong/.viminfo
 [Trace 17:12:37.927] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/hong/Ocaml/README.md
+[Trace 17:23:09.130] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/hong/README.md
