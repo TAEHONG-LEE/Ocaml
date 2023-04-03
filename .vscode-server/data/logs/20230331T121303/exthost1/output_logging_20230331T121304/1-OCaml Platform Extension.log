@@ -437,3 +437,95 @@ external command {
   ]
 }
 
+external command {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "exec",
+    "--switch=default",
+    "--set-switch",
+    "--root",
+    "/home/hong/.opam",
+    "--",
+    "utop",
+    "-version"
+  ]
+}
+
+external command (finished) {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "exec",
+    "--switch=default",
+    "--set-switch",
+    "--root",
+    "/home/hong/.opam",
+    "--",
+    "utop",
+    "-version"
+  ],
+  "result": {
+    "exitCode": 127,
+    "stdout": "",
+    "stderr": "[ERROR] Command not found 'utop'\n"
+  }
+}
+
+external command {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "exec",
+    "--switch=default",
+    "--set-switch",
+    "--root",
+    "/home/hong/.opam",
+    "--",
+    "ocaml"
+  ]
+}
+
+external command {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "exec",
+    "--switch=default",
+    "--set-switch",
+    "--root",
+    "/home/hong/.opam",
+    "--",
+    "utop",
+    "-version"
+  ]
+}
+
+external command (finished) {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "exec",
+    "--switch=default",
+    "--set-switch",
+    "--root",
+    "/home/hong/.opam",
+    "--",
+    "utop",
+    "-version"
+  ],
+  "result": {
+    "exitCode": 127,
+    "stdout": "",
+    "stderr": "[ERROR] Command not found 'utop'\n"
+  }
+}
+
+external command {
+  "bin": "/usr/bin/opam",
+  "args": [
+    "exec",
+    "--switch=default",
+    "--set-switch",
+    "--root",
+    "/home/hong/.opam",
+    "--",
+    "ocaml"
+  ]
+}
+

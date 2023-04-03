@@ -22,3 +22,14 @@ l10n: Configured to vscode-local:/c%3A/Users/dnclab/.vscode/extensions/ms-ceintl
 [Trace 17:42:58.183] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/hong/Ocaml/.vscode-server/extensions/ocamllabs.ocaml-platform-1.12.2/CHANGELOG.md
 [Trace 17:42:58.183] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/hong/Ocaml/.vscode-server/extensions/ocamllabs.ocaml-platform-1.12.2/README.md
 [Trace 17:42:58.183] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/hong/Ocaml/README.md
+[Trace 17:51:09.153] Server: connection.languages.diagnostics.on: file:///home/hong/README.md
+[Trace 17:51:09.206] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/hong/README.md
+[Trace 17:51:09.210] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/hong/README.md
+[Trace 17:51:09.212] Server: connection.languages.diagnostics.on: file:///home/hong/README.md
+[Trace 17:51:09.212] DocumentSymbolProvider: provideDocumentSymbols — file:///home/hong/README.md 1
+[Debug 17:51:09.213] LinkProvider: compute - file:///home/hong/README.md
+[Trace 17:51:09.216] Server: connection.languages.diagnostics.on: file:///home/hong/README.md
+[Debug 17:51:09.231] TableOfContentsProvider: create - file:///home/hong/README.md
+[Debug 17:51:09.348] MdFoldingProvider: provideFoldingRanges — file:///home/hong/README.md 1
+[Trace 18:49:05.486] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/hong/README.md
+[Trace 18:49:05.487] VsCodeClientWorkspace: deleteDocument: file:///home/hong/README.md

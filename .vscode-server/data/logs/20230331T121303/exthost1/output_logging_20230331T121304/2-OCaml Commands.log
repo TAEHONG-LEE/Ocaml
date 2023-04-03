@@ -40,3 +40,9 @@ $ /usr/bin/opam exec --switch=default --set-switch --root /home/hong/.opam -- ut
 $ /usr/bin/opam exec --switch=default --set-switch --root /home/hong/.opam -- utop -version
 [ERROR] Command not found 'utop'
 
+$ /usr/bin/opam exec --switch=default --set-switch --root /home/hong/.opam -- utop -version
+[ERROR] Command not found 'utop'
+
+$ /usr/bin/opam exec --switch=default --set-switch --root /home/hong/.opam -- utop -version
+[ERROR] Command not found 'utop'
+

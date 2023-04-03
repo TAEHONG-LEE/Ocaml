@@ -150,3 +150,89 @@ git merge origin/main
 git push origin main
 git fetch origin main
 git merge origin/main --allow-unrelated-histories
+code .
+utop
+sudo apt install -y utop
+ls
+git fetch origin main
+git add .
+git commit -m "Progress on Ocaml assignments: Completed Weeks 1 to 5"
+git push origin main
+rm Ocaml/
+rm -d Ocaml/
+rm -rf Ocaml/
+git pull origin main
+git add .
+git init
+git pull
+git add .
+git commit -m "Progress on Ocaml assignments: Completed Weeks 1 to 5"
+git push origin main
+cd week2
+git commit -m "Add implementation of factorial, fibonacci, accumulator, and power functions"
+git commit -a "Add implementation of factorial, fibonacci, accumulator, and power functions"
+git add .
+git commit -m "Add implementation of factorial, fibonacci, accumulator, and power functions"
+git add .
+git commit -m "Add implementation of factorial, fibonacci, accumulator, and power functions
+hong@DESKTOP-IF3MBGQ:~/week2$ git commit -m "Add implementation of factorial, fibonacci, accumulator, and power functions"
+git push origin main
+git push
+git push origin main
+git pull
+git add .
+git commit -m ""Add implementation of factorial, fibonacci, accumulator, and power function"
+git commit -m "Add implementation of factorial, fibonacci, accumulator, and power function"
+git add .
+git commit -m "Add implementation of factorial, fibonacci, accumulator, and power function"
+git add .
+git pull
+git pull origin main
+git commit -m "Add implementation of factorial, fibonacci, accumulator, and power function"
+git add .
+git commit -m "Add implementation of factorial, fibonacci, accumulator, and power functions"
+ㅣㄴ
+ls\
+ls
+cd
+touch .gitignore
+ls
+vi .gitignore
+git add .gitignore
+git commit -m "Add .gitignore file"
+git push origin main
+cd week2
+git commit --amend -m "Add implementation of factorial, fibonacci, accumulator, and power functions"
+git push -f origin main
+git commit --amend
+git push --force
+cd
+pwd
+ls
+git clone https://github.com/TAEHONG-LEE/Ocaml.git
+pwd
+git pull
+pwd
+git add .
+git pull
+git init
+git remote add origin https://github.com/TAEHONG-LEE/Ocaml.git
+git push -u origin main
+git add .
+git commit -m "Progress on Ocaml assignments: Completed Weeks 1 to 5"
+git push -u Origin main
+git push -u origin main
+git pull
+git add .
+git -u pull
+git pull
+rm -rf Ocaml/
+ls
+cd week5
+ls
+dune build
+utop -init hw05.ml
+utop
+utop -init hw05.ml
+utop -init hw05.m
+utop -init hw05.ml
