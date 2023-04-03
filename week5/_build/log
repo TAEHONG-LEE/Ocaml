@@ -3,7 +3,7 @@
 # Shared cache: disabled
 # Workspace root: /home/hong/week5
 # Auto-detected concurrency: 20
-$ /usr/bin/ocamlc.opt -config > /tmp/dune_bcbcaf_output
+$ /usr/bin/ocamlc.opt -config > /tmp/dune_718e3b_output
 # Dune context:
 #  { name = "default"
 #  ; kind = "default"
@@ -150,8 +150,5 @@ $ /usr/bin/ocamlc.opt -config > /tmp/dune_bcbcaf_output
 #      }
 #  }
 $ (cd _build/default && /usr/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -bin-annot -I .hw05.eobjs/byte -no-alias-deps -opaque -o .hw05.eobjs/byte/dune__exe__Hw05.cmo -c -impl hw05.ml)
-> File "hw05.ml", line 25, characters 12-14:
-> 25 |           | -> rec_transfer (transfer state) 
->                  ^^
-> Error: Syntax error
-[2]
+$ (cd _build/default && /usr/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I .hw05.eobjs/byte -I .hw05.eobjs/native -intf-suffix .ml -no-alias-deps -opaque -o .hw05.eobjs/native/dune__exe__Hw05.cmx -c -impl hw05.ml)
+$ (cd _build/default && /usr/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -o hw05.exe .hw05.eobjs/native/dune__exe__Hw05.cmx)

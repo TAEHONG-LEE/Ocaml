@@ -35,9 +35,11 @@ let lex (str : string) =
     let rec tokenize' char_lst state str str_lst =
       match char_lst, state with
       | h :: t, Q0 -> tokenize' t (transfer state h) (String.make 1 h) str_lst (*Q0에서 시작하는 경우*)
-      | h :: t, Q1 -> if (transfer state h) = Q1 then tokenize' t (transfer state h) ((String.make 1 h)^str) str_lst (*Q1에서 digit이 입력되는 경우*) else tokenize' t (transfer state h) (String.make 1 h) (str::str_lst) (*Q1에서 operator이 들어오는 경우 *)
-      | h :: t, _ -> tokenize' t (transfer state h) (String.make 1 h) (str::str_lst)
-      | [], _ -> str::str_lst
+      | h :: t, Q1 -> if (transfer state h) = Q1 then tokenize' t (transfer state h) (str^(String.make 1 h)) str_lst (*Q1에서 digit이 입력되는 경우*) 
+                      else tokenize' t (transfer state h) (String.make 1 h) (str_lst @ [str]) (*Q1에서 operator이 들어오는 경우 *)
+      | h :: t, _ -> tokenize' t (transfer state h) (String.make 1 h) (str_lst @ [str])
+      | [], Q1 -> str_lst @ [str]
+      | _ -> failwith "rejected"
     in tokenize' (List.of_seq (String.to_seq str)) Q0 "" []
 
 
