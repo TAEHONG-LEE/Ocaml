@@ -1,9 +1,0 @@
-2023-03-17 12:10:43.570 [info] 로그 수준: Info
-2023-03-17 12:10:43.570 [info] "git"에서 찾은 git 유효성을 검사하는 중
-2023-03-17 12:10:43.570 [info] "2.34.1"에서 git "git"을(를) 사용하는 중
-2023-03-17 12:10:43.570 [info] > git rev-parse --show-toplevel [3ms]
-2023-03-17 12:10:43.570 [info] fatal: not a git repository (or any of the parent directories): .git
-2023-03-17 12:11:00.777 [info] > git rev-parse --show-toplevel [7ms]
-2023-03-17 12:11:00.777 [info] fatal: not a git repository (or any of the parent directories): .git
-2023-03-17 12:11:16.393 [info] > git rev-parse --show-toplevel [1ms]
-2023-03-17 12:11:16.393 [info] fatal: not a git repository (or any of the parent directories): .git
