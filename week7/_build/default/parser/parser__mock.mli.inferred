@@ -1,0 +1,12 @@
+type token =
+    RIGHT_PARENTHESIS
+  | PLUS
+  | NUMBER of int
+  | MINUS
+  | LEFT_PARENTHESIS
+  | EOF
+val menhir_begin_marker : int
+val xv_parse : Ast.expr
+val xv_paren_expr : Ast.expr
+val xv_expr : Ast.expr
+val menhir_end_marker : int
