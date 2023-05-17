@@ -12,6 +12,6 @@ let rec interp (e:Ast.expr) : Value.t =
     | NumV v1, NumV v2 -> NumV(v1 - v2))
 
 
-let _ = Format.printf "%a" Ast.pp (ParserMain.parse "1+2-3")
+(* let _ = Format.printf "%a" Ast.pp (ParserMain.parse "1+2-3")
 let _ = Format.printf "%a" Ast.pp_ast (ParserMain.parse "1+2-3")
-let _ = Format.printf "%a" Value.pp (interp(ParserMain.parse "1+2-3"))
+let _ = Format.printf "%a" Value.pp (interp(ParserMain.parse "1+2-3")) *)
