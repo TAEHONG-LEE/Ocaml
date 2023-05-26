@@ -25,10 +25,9 @@ rule read =
   | "~" { NEG }
   | "let" { KW_LET }
   | "in" { KW_IN }
-  | "def" { KW_DEF }
-  | "endef" { KW_ENDEF }
+  | "fun" { KW_FUN }
+  | "->" { ARROW }
   | "=" { EQ }
-  | "," { COMMA }
   | number as n { NUMBER (int_of_string n) }
   | ident as id { ID id }
   | ws { read lexbuf }

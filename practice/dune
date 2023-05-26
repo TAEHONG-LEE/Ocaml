@@ -1,3 +1,2 @@
 (include_subdirs unqualified)
-(executable
-(name week1))
+(executable (name hw10))
