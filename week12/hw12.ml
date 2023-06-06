@@ -62,13 +62,13 @@ end *)
   | Ast.Lambda (param, expr1) -> (
       Store.ClosureV (param, expr1, store)
   )
-  | Ast.RLetIn (x, e1, e2) ->
+  | Ast.RLetIn (x, expr1, expr2) ->
     begin
-      match interp e1 store with
+      match interp expr1 store with
       | ClosureV (x', expr, s') ->
         let rec s'' = (x, Store.ClosureV (x', expr, s'')) :: s' in
-      interp e2 s''
-      | _ -> failwith (Format.asprintf "ClosureV required: %a" Ast.pp e1)
+      interp expr2 s''
+      | _ -> failwith (Format.asprintf "[Error] Not a function: %a" Ast.pp expr1)
     end
       
 
